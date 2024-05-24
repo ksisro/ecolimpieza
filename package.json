@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node server.js",
-    "vercel-build": "npm run build"
+    "vercel-build": "npm run backend-build"
   },
   "dependencies": {
     "browserify-zlib": "^0.2.0"
