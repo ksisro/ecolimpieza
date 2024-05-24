@@ -6,7 +6,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "vercel-start": "node index.js",
-    "vercel-build": "npm run build"
+    "vercel-build": "npm api-build"
   },
   "keywords": [],
   "author": "",
